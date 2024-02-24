@@ -1,0 +1,12 @@
+name = "misa"
+age = "13"
+weight = "160m"
+height = "380kg"
+coins = 100
+
+print(f"hello, {name} \n tebe {age} let \n rost {weight} \n ves {height}")
+
+if coins>50:
+    print("cool")
+else:
+    print("grystnj")
